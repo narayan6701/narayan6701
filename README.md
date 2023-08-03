@@ -2,7 +2,6 @@
 - 👀 I’m interested in Spirituality & Technology 
 
 - 🌱 I’m currently learning ...
-
 1. Fronted (HTML, CSS, JavaScript, Bootsrap and Tailwind CSS)
 2. Backend (MERN Stack, MongoDB,  Express JS, React JS, Node JS)
 3. C++ and Java
