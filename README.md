@@ -7,7 +7,7 @@
 3. C, C++ 
 4. Data Structures and Algorithms
 
-- 📫 Contact me at narayan.6701@gmail.com
+- 📫 Contact me at narayan6701@outlook.in
 
 <!---
 narayan6701/narayan6701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
