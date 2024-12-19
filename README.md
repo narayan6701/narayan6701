@@ -1,11 +1,8 @@
-👋 Hi, I’m Narayan Bhardwaj
-- 👀 I’m interested in Spirituality & Technology 
+Hello! I'm currently pursuing my Master of Computer Applications (MCA) and I'm passionate about technology, especially MERN stack development and problem-solving. As I explore and learn in these fields, I enjoy creating dynamic web applications that make a difference.
 
-- 🌱 I’m currently learning ...
-1. Fronted (HTML, CSS, JavaScript, Bootsrap and Tailwind CSS)
-2. Backend (MERN Stack, MongoDB,  Express JS, React JS, Node JS)
-3. C, C++ 
-4. Data Structures and Algorithms
+In addition to my tech interests, I am deeply invested in spirituality and Yoga, which help me stay balanced and focused. These practices enrich my personal and professional life, providing a holistic approach to everything I do.
+
+Let's connect and share insights on tech, mindfulness, and more. Together, we can build something great!
 
 - 📫 Contact me at narayan6701@outlook.in
 
